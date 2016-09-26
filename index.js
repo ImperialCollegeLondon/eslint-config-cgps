@@ -17,5 +17,7 @@ module.exports = {
     'react/no-multi-comp': 0,
     'react/prefer-es6-class': 0,
     'react/prefer-stateless-function': 0,
+    'import/no-extraneous-dependencies': 0,
+    'react/jsx-filename-extension': [ 1, { 'extensions': [ '.js' ] } ],
   },
 };
